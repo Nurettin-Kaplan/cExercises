@@ -11,7 +11,8 @@ int main(void){
 		sum += number;
 	}
 	
-	printf("Result: %.2f", sum);
+	printf("Result: %.2f\n", sum);
 	
+	system("pause");
 	return 0;
 }
