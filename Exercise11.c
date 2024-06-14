@@ -16,7 +16,6 @@ int main(void){
 	
 	printf("Your weighted final grade: %.2f\n", weightedGrade);
 	
-	
 	system("pause");
 	return 0;
 }
