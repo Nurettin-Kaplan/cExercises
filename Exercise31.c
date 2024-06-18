@@ -35,11 +35,11 @@ float isEarnPoints(float amount){
 	}
 }
 
-float pointsCalculator(float amount, float rate){
+float PointsCalculator(float amount, float rate){
 	return amount * rate;
 }
 
-void printEarnPoints(float point){
+void PrintEarnPoints(float point){
 	printf("This purchase earned %.2f points.\n", point);
 }
 
@@ -51,8 +51,8 @@ int main(void){
 		printf("Enter shopping amount: ");
 		scanf("%f", &amount);
 		pointsRate = isEarnPoints(amount);
-		earnPoints = pointsCalculator(amount, pointsRate);
-		printEarnPoints(earnPoints);
+		earnPoints = PointsCalculator(amount, pointsRate);
+		PrintEarnPoints(earnPoints);
 	}
 	
 	return 0;

@@ -4,7 +4,7 @@
 // use a do while loop, and the calculation should be done 
 // by a function named CalculatePrice according to the received values.
 
-float FiyatHesapla(float price, int operationType, float rate){
+float PriceCalculator(float price, int operationType, float rate){
 	switch(operationType){
 		case 1:
 			return price + ((price * rate) / 100);
