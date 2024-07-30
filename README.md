@@ -50,11 +50,12 @@ Below is a list of the exercises included in this repository. Each exercise is l
 
 4. **Loops**
  
-7. **Pointers**
+5. **Pointers**
 
-8. **Functions** 
+6. **Functions** 
 
-9. **Strings** 
+7. **Strings** 
+
 
 ## Contributing
 
