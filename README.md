@@ -58,7 +58,7 @@ Below is a list of the exercises included in this repository. Each exercise is l
 
 ## Contributing
 
-We welcome contributions from the community! If you have an exercise you'd like to add or an improvement to an existing one, please submit a pull request. Make sure to follow the existing format and provide a clear description of the exercise.
+If you have an exercise you'd like to add or an improvement to an existing one, please submit a pull request. Make sure to follow the existing format and provide a clear description of the exercise.
 
 ## License
 
